@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    background-color: #f0f0f5;
+    color: #333;
+    padding: 20px;
+}
+h1, h2 {
+    color: #2c3e50;
+    padding-left: 40px;
+}
+ul{
+    background: #fff;
+    list-style: none;
+    padding: 10px;
+    border-radius: 10px;
+}
+img{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%;
+}
